@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 new file in branch module.new changes.
 
+=======
+new file in branch module. creating a new conflict 
+>>>>>>> new_branch
